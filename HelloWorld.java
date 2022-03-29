@@ -7,7 +7,7 @@ public class HelloWorld {
    System.out.println("sunday monday");
     System.out.println("bye bye bye bye bye");
 
-   System.out.println("sunday monday");
+   System.out.println("time is running today");
 
    System.out.println("sunday monday");  
    }
